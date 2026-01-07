@@ -1,0 +1,40 @@
+# UTF-8
+#
+# KERZZ BOSS Version Information
+# Geliştirici: Osman Kobat
+#
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(3, 0, 0, 0),
+    prodvers=(3, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'041F04B0',  # Türkçe
+          [
+            StringStruct(u'CompanyName', u'Osman Kobat'),
+            StringStruct(u'FileDescription', u'KERZZ BOSS Yönetim Sistemi'),
+            StringStruct(u'FileVersion', u'3.0.0.0'),
+            StringStruct(u'InternalName', u'KerzzBoss'),
+            StringStruct(u'LegalCopyright', u'MIT License (c) 2024-2026 Osman Kobat'),
+            StringStruct(u'OriginalFilename', u'KerzzBoss.exe'),
+            StringStruct(u'ProductName', u'KERZZ BOSS Yönetim Sistemi PRO'),
+            StringStruct(u'ProductVersion', u'3.0.0.0'),
+            StringStruct(u'Comments', u'Restoran Yönetim Yazılımı'),
+            StringStruct(u'LegalTrademarks', u'KERZZ BOSS'),
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct(u'Translation', [1055, 1200])])  # Türkçe
+  ]
+)

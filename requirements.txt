@@ -1,0 +1,42 @@
+# KERZZ BOSS - Python Bağımlılıkları
+# Kurulum: pip install -r requirements.txt
+
+# GUI Framework
+customtkinter>=5.2.0
+tkinter-tooltip>=2.1.0
+
+# Görüntü İşleme
+Pillow>=10.0.0
+
+# HTTP İstekleri
+requests>=2.31.0
+
+# Veri İşleme
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Grafik ve Görselleştirme
+matplotlib>=3.7.0
+
+# Tarih İşlemleri
+python-dateutil>=2.8.0
+
+# Windows Özellikleri (Windows için)
+pywin32>=306; sys_platform == 'win32'
+win10toast>=0.9; sys_platform == 'win32'
+winshell>=0.6; sys_platform == 'win32'
+
+# EXE Oluşturma (Opsiyonel)
+pyinstaller>=6.0.0
+pyarmor>=8.0.0
+
+# Güvenlik
+cryptography>=41.0.0
+
+# Veritabanı
+pyodbc>=5.0.0
+
+# Diğer
+uuid>=1.30
+pathlib>=1.0.1
