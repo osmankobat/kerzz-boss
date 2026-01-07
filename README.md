@@ -170,7 +170,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 **Osman Kobat**
 
 - GitHub: [@osmankobat](https://github.com/osmankobat)
-- E-posta: osmankobat@example.com
+- E-posta: osmankbt038@gmail.com
 
 ## 🙏 Teşekkürler
 
